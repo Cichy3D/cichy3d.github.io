@@ -225,6 +225,7 @@ hr {
 .btn-stackoverflow .icon {
   opacity: 0.6;
   background: url("../images/stack-favicon.ico") 0 0 no-repeat;
+  background-size:contain;
 }
 
 /* Links
